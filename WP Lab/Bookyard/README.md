@@ -1,4 +1,6 @@
 # Output
+## Register Page
+![output](5.png)
 ## Login Page
 ![output](3.png)
 ## Navigation Page
