@@ -1,0 +1,21 @@
+.mainbody{
+    background-image: image("1.jpg");
+}
+.headertitle{
+   
+    padding: 10px;
+    text-align: center;
+    font-size: 27px;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.syllabus{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+}
+.outcomes{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+}
