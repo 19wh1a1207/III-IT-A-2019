@@ -1,0 +1,63 @@
+.mainbody{
+    background-color: #D2CECE;
+}
+.headertitle{
+    background: #57B846;
+    padding: 25px;
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    font-family: 'JosefinSans', 'Sans-serif';
+}
+.inputsection{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 18px;
+}
+.inputbox{
+    border-radius: 33px;
+    padding: 17px;
+    background: #eee8e8;
+    width: 92%;
+    border: 0;
+    margin-bottom: 17px;
+}
+.xy{
+    background: white;
+}
+.ending{
+    color: white;
+    background: #57B846;
+    text-align: center;
+    padding: 10px;
+    border-radius: 45px;
+    margin-top: 10px;
+}
+.xy{
+    margin: auto;
+    width: 500px;
+    height: 100vh;
+    border-radius: 17px;
+}
+.contain{
+    margin: auto;
+    width: 80%;
+    height: 50%;
+    text-align: center;
+}
+.ending:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.button{
+    background-color: #57B846;
+    color: #57B846;
+    background: #57B846;
+}
+.check{
+    margin-left: -180px;
+    margin-top: 15px;
+}
+.gen{
+    margin-left: -100px;
+}
