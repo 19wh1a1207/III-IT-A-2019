@@ -1,1 +1,3 @@
+# Output
+![Output](primenumber.png)
 
