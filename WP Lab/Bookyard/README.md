@@ -8,3 +8,5 @@
 ## Landing Pages
 ![output](1.png)
 ![output](2.png)
+## Validate Page
+![output](validate.png)
